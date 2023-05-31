@@ -29,3 +29,6 @@ Learning AWS
 * As a user, I want to be able to create a new thought.
 
 * As a user, I want to view thoughts of a user
+
+ command line args for seeing db contents
+aws dynamodb scan --table-name Thoughts
